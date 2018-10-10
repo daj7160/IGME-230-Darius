@@ -1,10 +1,10 @@
 Darius James
 
-
-                [Project Page](project.html)
-                [Documentation](documentation.html)
-                [Proposal](proposal.html)
-                [Home](index.html)
+Navbar
+[Project Page](project.html)
+[Documentation](documentation.html)
+[Proposal](proposal.html)
+[Home](index.html)
 
 
 # Sidescrollin' Shooter - Proposal
